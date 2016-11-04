@@ -1,0 +1,7 @@
+{
+  "name": "Adafruit_Trellis",
+  "author": "Adafruit <info@adafruit.com>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Adafruit Trellis driver"
+}
